@@ -9,10 +9,12 @@
 title: Pagina de Prueba
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hola mi Nombre es Angel Luis, soy Hijo de renardoy susi 
+  Hola mi Nombre es Angel Luis, soy Hijo de renardo y susi 
   y voy a la escuela es ingles.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: angeluismr
+instagram_username: almr20
 twitter_username: jekyllrb
 github_username:  jekyll
 
